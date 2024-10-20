@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100;
+  padding:10px;
+  background-color: #e2e8f0;
+}

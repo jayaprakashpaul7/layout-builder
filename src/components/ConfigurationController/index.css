@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.controller-bg {
+  background-color: #475569;
+  height: 100%;
+  padding: 20px 0px 20px 70px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #f1f5f9;
+}
